@@ -126,11 +126,7 @@ Excel → Python → SQL → Power BI
 ### Page 3 — Engagement & Performance
 ### Page 4 — At-Risk Students
 
-## Key Insights
 
-- ...
-- ...
-- ...
 
 ## How to Run
 
